@@ -31,3 +31,4 @@ POST /urls -> shortUrl
 GET /{shortUrl} -> Redirect to OriginalUrl
 
 ## High Level Design
+<img width="870" height="359" alt="Urlshortner drawio" src="https://github.com/user-attachments/assets/a525e1ba-377e-4eb8-8565-7b6423b6950f" />
